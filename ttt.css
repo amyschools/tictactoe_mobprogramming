@@ -1,0 +1,24 @@
+.borderRight {
+  border-right-style: solid;
+  border-right-color: black;
+  border-right-width: medium;
+}
+
+.borderTop {
+  border-top-style: solid;
+  border-top-color: black;
+  border-top-width: medium;
+}
+
+table {
+  border-collapse: collapse;
+}
+
+body {
+  font-size: 50pt;
+}
+
+td {
+  height: 50px;
+  width: 50px;
+}
